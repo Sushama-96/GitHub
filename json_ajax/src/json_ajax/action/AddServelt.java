@@ -13,7 +13,8 @@ import json_ajax.bean.Student;
 
 @WebServlet("/AddServelt")
 public class AddServelt extends HttpServlet {
-	
+	//this is my second commit
+	//this will be shown only after commit
        
   
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
